@@ -57,21 +57,12 @@ If the new price is higher, user is prompted to pay the difference.
 🚀 How to Run
 Clone the repo:
 
-bash
-Copy
-Edit
 git clone https://github.com/AshishASuvarna/Low-level-design.git
 Navigate to the project:
 
-bash
-Copy
-Edit
 cd Low-level-design/CarRentalSystem
 Run the program:
 
-bash
-Copy
-Edit
 python3 main.py
 📌 Example Features Demonstrated in main.py
 Adding cars and customers
@@ -87,9 +78,7 @@ Canceling a booking
 Modifying a booking (including payment diff)
 
 📁 Project Structure
-css
-Copy
-Edit
+
 CarRentalSystem/
 ├── Car.py
 ├── Customer.py
